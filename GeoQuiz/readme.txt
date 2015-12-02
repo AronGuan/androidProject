@@ -8,4 +8,4 @@ TrueFalse作为模型类:存放问题的id和答案。
 QuizActivity类  
 初始化问题,设置监听器，根据用户选择，通过Toast来显示正确或错误  
 
-![icon](https://github.com/AronGuan/androidProject/blob/master/images/GeoQuiz.png)
+![alt 展示图](https://github.com/AronGuan/androidProject/blob/master/images/GeoQuiz.png)
