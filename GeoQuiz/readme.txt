@@ -9,3 +9,4 @@ QuizActivity类
 初始化问题,设置监听器，根据用户选择，通过Toast来显示正确或错误  
 
 ![alt 展示图](https://github.com/AronGuan/androidProject/blob/master/images/GeoQuiz.png)
+![alt 展示图](https://github.com/AronGuan/androidProject/blob/master/images/GeoQuiz.PNG)  
