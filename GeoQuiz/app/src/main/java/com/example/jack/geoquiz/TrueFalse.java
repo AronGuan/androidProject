@@ -8,6 +8,7 @@ public class TrueFalse {
 
     private boolean mTrueQuestion;
 
+    private boolean isAnswer;
     public TrueFalse(int mQuestion, boolean TrueQuestion) {
         this.mQuestion = mQuestion;
         this.mTrueQuestion = TrueQuestion;
@@ -21,4 +22,11 @@ public class TrueFalse {
         return mTrueQuestion;
     }
 
+    public boolean isAnswer() {
+        return isAnswer;
+    }
+
+    public void setIsAnswer(boolean isAnswer) {
+        this.isAnswer = isAnswer;
+    }
 }
